@@ -6,3 +6,9 @@ The home screen uses iCarousel for a coverflow of icons, which looks amazing.
 
 
 Big thanks to https://github.com/nicklockwood/iCarousel !! Majorly detailed and amazing github helped out a lot.
+
+
+Here's a video of the app running.
+
+
+[linkname](http://youtu.be/C8eaLVvp1mE)
