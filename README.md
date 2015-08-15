@@ -11,4 +11,4 @@ Big thanks to https://github.com/nicklockwood/iCarousel !! Majorly detailed and 
 Here's a video of the app running.
 
 
-[linkname](http://youtu.be/C8eaLVvp1mE)
+[JCCC Showcase Video](http://youtu.be/C8eaLVvp1mE)
